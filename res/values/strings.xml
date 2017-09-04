@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Browser</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="input">请输入网址</string>
+	<string name="wangzhan">手机酷站</string>
+	<string name="sousuo">搜索引擎</string>
+	<string name="gouwu">网上商城</string>
+	<string name="service">生活领域</string>
+	<string name="guanwang">手机官网</string>
+	<string name="xinlang">新浪</string>
+	<string name="tengxun">腾讯</string>
+	<string name="sohu">搜狐</string>
+	<string name="threeG">3G</string>
+	<string name="hupu">虎扑</string>
+	<string name="baidu">百度</string>
+	<string name="guge">谷歌</string>
+	<string name="soso">搜搜</string>
+	<string name="yicha">易查</string>
+	<string name="yahu">雅虎</string>
+	<string name="taobao">淘宝</string>
+	<string name="jingdong">京东</string>
+	<string name="suning">苏宁</string>
+	<string name="yixun">易迅</string>
+	<string name="yamaxun">亚马逊</string>
+	<string name="wuba">58同城</string>
+	<string name="ganji">赶集网</string>
+	<string name="baixing">百姓网</string>
+	<string name="dazhong">大众点评</string>
+	<string name="sanxing">三星官网</string>
+	<string name="huawei">华为官网</string>
+	<string name="xiaomi">小米官网</string>
+	<string name="zhongxing">努比亚官网</string>
+	<string name="htc">HTC官网</string>
+	<string name="name">名称</string>
+	<string name="url">网址</string>
+</resources>
